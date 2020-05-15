@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226218019533",
+    "firebase_url": "https://test-423ed.firebaseio.com",
+    "project_id": "test-423ed",
+    "storage_bucket": "test-423ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226218019533:android:0444a1e7a47e137f433784",
+        "android_client_info": {
+          "package_name": "com.sarkar.catdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226218019533-f264297clu7jkh85vcdjj6ut6ds2rdc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-Hq8a9DGt0Zrh-7U_UfvuD6mkc3JwHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226218019533-f264297clu7jkh85vcdjj6ut6ds2rdc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
